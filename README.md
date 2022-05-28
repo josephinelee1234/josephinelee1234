@@ -3,6 +3,7 @@
 I'm Josephine! I plan on studying CS at MIT starting Fall 2022.
 
 My Github profile contains my Software Development projects: Wordle and Nerdle clone, Break Buddy, Storymaking site, Tetris clone, Software Development Workshop, and personal projects
+
 Tools used: Python, JS, HTML, CSS, APIs, Flask, SQLite, Processing
 
 <!--
