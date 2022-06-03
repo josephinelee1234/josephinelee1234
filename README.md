@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Josephine! I plan on studying CS at MIT starting Fall 2022.
+I'm Josephine! As an incoming freshman at MIT planning to study Computer Science, I enjoy using math and computer science to solve problems.
 
 My Github repositories contain my Software Development projects: Wordle and Nerdle clone, Break Buddy, Storymaking site, Tetris clone, Hill Cypher Demonstration (encryption, decryption, breaking), Software Development Workshop, personal projects
 
