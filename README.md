@@ -2,7 +2,7 @@
 
 I'm Josephine! As an incoming freshman at MIT planning to study Computer Science, I enjoy using math and computer science to solve problems.
 
-My Github repositories contain my Software Development projects: Wordle and Nerdle clone, Break Buddy, Storymaking site, Tetris clone, Hill Cypher Demonstration (encryption, decryption, breaking), Software Development Workshop, personal projects
+My Github repositories contain my Software Development projects: SNKRX-based game, Wordle and Nerdle clone, Break Buddy, Storymaking site, Tetris clone, Hill Cypher Demonstration (encryption, decryption, breaking), Software Development Workshop, personal projects
 
 Tools used: Python, JS, HTML, CSS, APIs, Flask, SQLite, Processing
 
