@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Josephine! As an incoming freshman at MIT planning to study Computer Science, I enjoy using math and computer science to solve problems.
+I'm Josephine! As a CS student at MIT, I enjoy using math and computer science to solve problems.
 
 My Github repositories contain my Software Development projects: SNKRX-based game, Wordle and Nerdle clone, Break Buddy, Storymaking site, Tetris clone, Hill Cypher Demonstration (encryption, decryption, breaking), Software Development Workshop, personal projects
 
