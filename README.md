@@ -2,7 +2,7 @@
 
 I'm Josephine! As a CS student at MIT, I enjoy using math and computer science to solve problems.
 
-My GitHub repositories contain my Software Development projects: Automated bot that trades ETFs, bonds, and stocks in market simulation; SNKRX-based game; Wordle and Nerdle clone; Break Buddy; Storymaking site; Tetris clone; Hill Cypher Demonstration (encryption, decryption, breaking); Software Development Workshop; personal projects
+My GitHub repositories contain my Software Development projects: AI music generation model research for symbolic domain; Automated bot that trades ETFs, bonds, and stocks in market simulation; SNKRX-based game; Wordle and Nerdle clone; Break Buddy; Storymaking site; Tetris clone; Hill Cypher Demonstration (encryption, decryption, breaking); Software Development Workshop; personal projects
 
 Tools used: Python, JS, HTML, CSS, APIs, Flask, SQLite, Processing
 
