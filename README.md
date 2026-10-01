@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Josephine! As a CS undergraduate student at MIT, I enjoy using math and computer science to solve problems.
+I'm Josephine! I studied CS at MIT and now am in the startup world :)
 
 My GitHub repositories contain some of my Computer Science projects: a Consensus-Based Deletion Protocol prototype designed for Communal File Storage; AI music generation model research project for symbolic domain; Automated bot that trades ETFs, bonds, and stocks in market simulation; SNKRX-based game; Wordle and Nerdle clone; Break Buddy; Storymaking site; Tetris clone; Hill Cypher Demonstration (encryption, decryption, breaking); Software Development Workshop; personal projects
 
